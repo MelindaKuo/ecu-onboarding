@@ -2,6 +2,10 @@
 
 Simulates a sensor ECU that reads a virtual randomized sensor value, applies a moving average of 3 values, then transmits the data over a simulated CAN frame.
 
+![Snapshot of example output](example_output.png)
+
+Snapshot of example output.
+
 # How to Compile and Run
 
 Open this folder in VSCode with the PlatformIO extension installed.
